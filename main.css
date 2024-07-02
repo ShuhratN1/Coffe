@@ -1,0 +1,148 @@
+* {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: "Roboto Condensed", sans-serif;
+}
+
+.container {
+    margin: 0 auto;
+    max-width: 1340px;
+}
+
+.header {
+    background-color: blanchedalmond;
+    padding: 20px;
+}
+
+.wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.first_ul {
+    display: flex;
+    align-items: center;
+    gap: 40px;
+}
+
+.a_href {
+    color: black;
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 14.06px;
+    letter-spacing: 1px;
+}
+
+.p_section {
+    width: 372px;
+    height: 85.37px;
+    margin-left: 50px;
+    margin-top: 30px;
+}
+
+h1 {
+    margin-top: 182px;
+    margin-left: 50px;
+}
+
+.coffe {
+    width: 560px;
+}
+
+.img_section {
+    margin-top: 182px;
+}
+
+.bg_img :hover {
+    background-image: url(image\ 40.png);
+    width: 150px;
+    height: 150px;
+    background-repeat: no-repeat;
+    position: absolute;
+
+}
+
+.sec-main {
+    background-color: blanchedalmond;
+}
+
+.right-wrapper {
+    width: 500px;
+}
+
+.sec-2 {
+    margin-top: 160px;
+}
+
+.right-wrapper {
+    display: flex;
+    flex-direction: column;
+    gap: 64px;
+}
+
+.right {
+    position: relative;
+}
+
+.p-image {
+    background-image: url(image\ 40.png);
+    width: 250px;
+    height: 250px;
+    position: absolute;
+    top: 59px;
+    left: -93px;
+    background-repeat: no-repeat;
+    z-index: 1;
+}
+
+.three_section {
+    background-color: #C99B67;
+    padding: 150px 0;
+    margin-top: 50px;
+}
+
+.h2_three {
+    font-size: 50px;
+    width: 397px;
+    height: 118px;
+    color: white;
+}
+
+.p_three {
+    font-size: 18px;
+    width: 639px;
+    height: 150px;
+    margin-top: 28px;
+    color: white;
+}
+
+.right-wrapper_first {
+    position: relative;
+}
+
+
+
+.img_siuuu {
+    position: absolute;
+    top: -350px;
+    left: -507px;
+}
+.foooter{
+    background-color: blanchedalmond;
+}
+.li_li_li{
+    text-align: center;
+}
+.huhuhuh{
+    margin-top: 10px;
+}
+.img_ota_ota{
+    display: flex;
+    justify-content: right;
+    align-items: center;
+        
+}
